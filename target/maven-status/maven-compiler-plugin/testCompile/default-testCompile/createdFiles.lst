@@ -1,0 +1,10 @@
+pageObject\AccountPage.class
+StepDefinition\NewCustomer.class
+pageObject\RegisterNewCustomer.class
+common\BrowserManager.class
+common\DriverManager.class
+pageObject\BasePage.class
+runner\TestRunner.class
+hooks\Hook.class
+pageObject\HomePage.class
+StepDefinition\Login.class
